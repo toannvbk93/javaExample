@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<staff id="1001">
+		<firstname>Nguyen</firstname>
+		<lastname>Van Toan</lastname>
+		<nickname>Toannv</nickname>
+		<salary>100000</salary>
+	</staff>
+	<staff id="2001">
+		<firstname>Vu</firstname>
+		<lastname>Xuan Lam</lastname>
+		<nickname>Lamvx</nickname>
+		<salary>200000</salary>
+	</staff>
+	<staff id="2002">
+		<firstname>Nguyen</firstname>
+		<lastname>Hai Ninh</lastname>
+		<nickname>NinhNH</nickname>
+		<salary>300000</salary>
+	</staff>
+	<staff id="2003">
+		<firstname>石田</firstname>
+		<lastname>山田</lastname>
+		<nickname>Yamada</nickname>
+		<salary>400000</salary>
+	</staff>
+	<staff id="2004">
+		<firstname>四日</firstname>
+		<lastname>湖南</lastname>
+		<nickname>conan</nickname>
+		<salary>500000</salary>
+	</staff>
+</company>
